@@ -1,4 +1,4 @@
-﻿Tic Tik Toe Version 1
+﻿Tic Tak Toe Version 1
 
 -this version plays like the normal version
 -2 player game
