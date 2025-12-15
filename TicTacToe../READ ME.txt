@@ -1,5 +1,0 @@
-﻿Tic Tak Toe Version 1
-
--this version plays like the normal version
--2 player game
--Coming soon: version with AI 
