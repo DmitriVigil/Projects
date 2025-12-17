@@ -40,7 +40,7 @@ You need **Python 3** installed on your machine. Tkinter is included with standa
 
 2.  Run the application:
     ```bash
-    python nqueens.py
+    python app.py
     ```
     *(Note: If `python` doesn't work, try `python3` or `py`).*
 
